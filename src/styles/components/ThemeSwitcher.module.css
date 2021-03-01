@@ -1,0 +1,19 @@
+.themeSwitcherButton {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+  
+    width: 3rem;
+    height: 3rem;
+  
+    border-radius: 50%;
+    border: 0 !important;
+  
+    background-color: var(--white);
+  
+    transition: background-color 0.3s;
+  }
+  
+  .themeSwitcherButton:hover {
+    background-color: var(--gray-line);
+  }
