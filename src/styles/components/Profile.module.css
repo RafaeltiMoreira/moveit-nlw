@@ -1,17 +1,3 @@
-/*
-.profileRow {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-  
-  .profileRow svg {
-    color: #F2C94C;
-    font-size: 46px;
-    cursor: pointer;
-}
-*/
-
 .profileContainer {
     display: flex;
     align-items: center;

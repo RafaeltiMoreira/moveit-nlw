@@ -6,13 +6,13 @@ import '../styles/global.css'
 function MyApp({ Component, pageProps }) {
   return (
     <ApplicationProvider>
-      <AppContext>
-        <>
-          <Component {...pageProps} />
-          <ThemeSwitcher/>
-        </>
-      </AppContext>
-    </ApplicationProvider>
+    <AppContext>
+      <>
+        <Component {...pageProps} />
+        <ThemeSwitcher/>
+      </>
+    </AppContext>
+  </ApplicationProvider>
   ) 
 }
 

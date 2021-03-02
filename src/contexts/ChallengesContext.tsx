@@ -59,7 +59,7 @@ export function ChallengesProvider({
         setLevel(level + 1);
         setIsLevelUpModalOpen(true)
     }
-    //Verificar código abaixo
+    
     function closeLevelUpModal() {
         setIsLevelUpModalOpen(false);
     }
