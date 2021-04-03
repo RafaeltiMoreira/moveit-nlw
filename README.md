@@ -50,3 +50,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaeltiMoreira/moveit-nlw/blob/main/LICENSE)
 
 
+### Author 👷
+------------
+
+<br/> Feito com ♥ by Rafael Moreira [![Linkedin Badge](https://img.shields.io/badge/-RafaelMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-moreira-ti/)](https://www.linkedin.com/in/rafael-moreira-ti/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-rafaeltimoreirass@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeltimoreirass@gmail.com)](mailto:rafaeltimoreirass@gmail.com)
