@@ -19,7 +19,7 @@
 - Vercel
 
 
-### Teachers 🎓
+### Teacher 🎓
 
 ------------
 
